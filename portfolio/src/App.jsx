@@ -1,10 +1,10 @@
 import './App.css'
+import Hero from './components/Hero/Hero.jsx'
 
 function App() {
-
   return (
     <>
-      <div className="bg-blue-500 w-screen h-screen">teste</div>
+      <Hero />
     </>
   )
 }
