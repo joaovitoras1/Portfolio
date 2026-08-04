@@ -18,8 +18,8 @@ function Hero() {
                 </ul>
             </nav>
 
-            <p className="text-[16px] pb-2">Hello World! Meu nome é <span className="italic" >&lt;João Vitor/&gt;</span> e sou</p>
-            <h1 className="text-[38px]">Desenvolvedor Front-end</h1>
+            <p className="text-[16px] pb-2 font-jetbrains-mono">Hello World! Meu nome é <span className="italic text" >&lt;João Vitor/&gt;</span> e sou</p>
+            <h1 className="text-[38px] font-bitcount-prop-single">Desenvolvedor Front-end</h1>
         </div>
     )
 }
