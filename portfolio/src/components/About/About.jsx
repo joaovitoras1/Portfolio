@@ -1,6 +1,6 @@
 function About() {
     return (
-        <div className="p-10 place-items-center">
+        <div className="p-10 place-items-center font-open-sans">
             <h2 className="pb-5 text-[20px] text-center">Sobre Mim</h2>
             <p>Olá, me chamo João Vitor, estudante autodidata de desenvolvimento web front-end. Aqui irei mostrar minhas habilidades e projetos práticos que fiz durante minha jornada de aprendizado.</p>
             <ul className="flex flex-col gap-2 p-5 list-disc">
