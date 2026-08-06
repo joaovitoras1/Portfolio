@@ -1,4 +1,3 @@
-import './Technologies.css'
 import htmlIcon from '../../assets/icons/HTML.svg'
 import cssIcon from '../../assets/icons/CSS.svg'
 import javascriptIcon from '../../assets/icons/JavaScript.svg'
