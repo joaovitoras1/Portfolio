@@ -8,15 +8,22 @@
 }
 
 @theme {
-    --animate-float: float 3s ease-in-out infinite;
+  --white: #F8F7FF;
+  --lavender-gray: #D8D5E2;
+  --light-blue: #8FE7FF;
+  --lilac: #F0A7FF;
+}
 
+@theme {
+    --animate-float: float 3s ease-in-out infinite;
+    
     @keyframes float {
-    0%, 
-    100% {
-        transform: translateY(0);
-    } 
-    50% {
-        transform: translateY(-15px);
+        0%, 
+        100% {
+            transform: translateY(0);
+        } 
+        50% {
+            transform: translateY(-15px);
     }
 }
 }
